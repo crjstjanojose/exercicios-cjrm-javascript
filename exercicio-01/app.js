@@ -25,8 +25,6 @@ Utilize os espaços entre os comentários abaixo para executar os códigos dos
 exercícios. Inclusive o alert mencionado acima.
 */
 
-
-
 /*
 04 - Comente o alert que você escreveu acima, utilizando o comentário de uma linha.
 */
@@ -36,19 +34,13 @@ exercícios. Inclusive o alert mencionado acima.
 dígitos. Ex.: 1930.
 */
 
-
-
 /*
 06 - Declare uma const "currentYear", que recebe o ano atual, com 4 dígitos.
 */
 
-
-
 /*
 07 - Exiba as const "myBirthYear" e "currentYear", lado a lado, no console do browser.
 */
-
-
 
 /*
 08 - Experimente.
@@ -61,8 +53,6 @@ acontece.
 
 - Exiba a "myAge" no console.
 */
-
-
 
 /*
 09 - Antes do console.log abaixo, declare uma const "ten", que recebe o número  
